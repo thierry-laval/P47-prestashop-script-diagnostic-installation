@@ -10,12 +10,22 @@
 
 ---
 
-<!-- Ajout d'une ancre explicite pour "Table des matières" afin d'éviter les problèmes d'ancres générées -->
+## 📎 Projet
+
+Création d’un outil de diagnostic complet pour installations PrestaShop (1.7 → 9.x)
+
+_`Début du projet le 25/10/2023`_ — Version du script : 1.0.0 (25/10/2025)
+
+![Assistant de téléchargement PrestaShop](img/generateur-prestashop-thierrylaval.dev.jpg)
+
+---
+
 <a id="table-des-matieres"></a>
 ## 📑 Table des matières
 
 - [](#)
   - [Auteur](#auteur)
+  - [� Projet](#-projet)
   - [📑 Table des matières](#-table-des-matières)
   - [Description](#description)
     - [🎯 Pourquoi ce script ?](#-pourquoi-ce-script-)
