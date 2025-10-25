@@ -19,15 +19,22 @@ _`Début du projet le 25/10/2023`_ — Version du script : 1.0.0 (25/10/2025)
 ![Assistant de téléchargement PrestaShop](img/generateur-prestashop-thierrylaval.dev.jpg)
 
 ---
+## Description
+
+Ce dépôt contient un script PHP autonome permettant d’effectuer un diagnostic complet d’une installation PrestaShop. Il vérifie la configuration PHP, les extensions, la connexion à la base de données, les modules, les thèmes, les permissions, les fichiers critiques, les overrides, le core (/vendor) et propose un rapport HTML téléchargeable.
+
+Le script n’effectue aucune modification non sollicitée, hormis l’activation temporaire du mode debug si possible, et propose des actions sûres (vidage du cache, rapport téléchargeable).
+
+---
 
 <a id="table-des-matieres"></a>
 ## 📑 Table des matières
 
 - [](#)
   - [Auteur](#auteur)
-  - [� Projet](#-projet)
-  - [📑 Table des matières](#-table-des-matières)
+  - [📎 Projet](#-projet)
   - [Description](#description)
+  - [📑 Table des matières](#-table-des-matières)
     - [🎯 Pourquoi ce script ?](#-pourquoi-ce-script-)
       - [🔁 Fonctionnement](#-fonctionnement)
   - [Prérequis](#prérequis)
@@ -42,11 +49,6 @@ _`Début du projet le 25/10/2023`_ — Version du script : 1.0.0 (25/10/2025)
       - [♥ Love Markdown](#-love-markdown)
 
 ---
-## Description
-
-Ce dépôt contient un script PHP autonome permettant d’effectuer un diagnostic complet d’une installation PrestaShop. Il vérifie la configuration PHP, les extensions, la connexion à la base de données, les modules, les thèmes, les permissions, les fichiers critiques, les overrides, le core (/vendor) et propose un rapport HTML téléchargeable.
-
-Le script n’effectue aucune modification non sollicitée, hormis l’activation temporaire du mode debug si possible, et propose des actions sûres (vidage du cache, rapport téléchargeable).
 
 ### 🎯 Pourquoi ce script ?
 
