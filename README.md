@@ -10,12 +10,22 @@
 
 ---
 
+## 📎 Projet
+
+Création d’un outil de diagnostic complet pour installations PrestaShop (1.7 → 9.x)
+
+_`Début du projet le 14/01/2025`_ — Version du script : 1.0.0 (25/10/2025)
+
+![Assistant de téléchargement PrestaShop](img/generateur-prestashop-thierrylaval.dev.jpg)
+
+---
+
 ## 📑 Table des matières
 
 - [](#)
   - [Auteur](#auteur)
+  - [� Projet](#-projet)
   - [📑 Table des matières](#-table-des-matières)
-  - [📎 Projet](#-projet)
   - [Description](#description)
     - [🎯 Pourquoi ce script ?](#-pourquoi-ce-script-)
       - [🔁 Fonctionnement](#-fonctionnement)
@@ -31,17 +41,6 @@
       - [♥ Love Markdown](#-love-markdown)
 
 ---
-
-## 📎 Projet
-
-Création d’un outil de diagnostic complet pour installations PrestaShop (1.7 → 9.x)
-
-_`Début du projet le 14/01/2025`_ — Version du script : 1.0.0 (25/10/2025)
-
-![Assistant de téléchargement PrestaShop](img/generateur-prestashop-thierrylaval.dev.jpg)
-
----
-
 ## Description
 
 Ce dépôt contient un script PHP autonome permettant d’effectuer un diagnostic complet d’une installation PrestaShop. Il vérifie la configuration PHP, les extensions, la connexion à la base de données, les modules, les thèmes, les permissions, les fichiers critiques, les overrides, le core (/vendor) et propose un rapport HTML téléchargeable.
