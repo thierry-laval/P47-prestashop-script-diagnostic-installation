@@ -82,6 +82,18 @@ Si ce projet vous aide, vous pouvez soutenir l'auteur :
 
 <a href="https://paypal.me/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" alt="Soutiens-moi !" height="35" width="150"></a>
 
----
+[Voir mon travail](https://github.com/thierry-laval)
 
-Donnez une étoile ⭐ si ce projet vous plaît !
+***
+
+### ♥ Love Markdown
+
+Donnez une ⭐️ si ce projet vous plaît !
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<a href="#">  
+  <img src="https://github.com/thierry-laval/P00-mes-archives/blob/master/images/octocat-oley.png" height="300">  
+</a>
+
+**[⬆ Retour en haut](#auteur)**  
