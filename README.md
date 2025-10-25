@@ -10,21 +10,12 @@
 
 ---
 
-## 📎 Projet
-
-Création d’un outil de diagnostic complet pour installations PrestaShop (1.7 → 9.x)
-
-_`Début du projet le 14/01/2025`_ — Version du script : 1.0.0 (25/10/2025)
-
-![Assistant de téléchargement PrestaShop](img/generateur-prestashop-thierrylaval.dev.jpg)
-
----
-
+<!-- Ajout d'une ancre explicite pour "Table des matières" afin d'éviter les problèmes d'ancres générées -->
+<a id="table-des-matieres"></a>
 ## 📑 Table des matières
 
 - [](#)
   - [Auteur](#auteur)
-  - [� Projet](#-projet)
   - [📑 Table des matières](#-table-des-matières)
   - [Description](#description)
     - [🎯 Pourquoi ce script ?](#-pourquoi-ce-script-)
@@ -152,4 +143,4 @@ Donnez une ⭐️ si ce projet vous plaît !
   <img src="https://github.com/thierry-laval/P00-mes-archives/blob/master/images/octocat-oley.png" height="300">  
 </a>
 
-**[⬆ Retour en haut](#table-des-matières)**
+**[⬆ Retour en haut](#table-des-matieres)**
